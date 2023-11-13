@@ -9,7 +9,7 @@ Welcome to my GitHub profile! As a frontend developer, I'm on a mission to creat
 *   🌍  I'm based in Tel Aviv, Israel
 *   🖥️  See my portfolio at [Ariel Schwartz](http://arielschwartz.com)
 *   ✉️  You can contact me at [schwartz254@gmail.com](mailto:schwartz254@gmail.com)
-*   🚀  I'm currently working on [Fantasy Football Draft Tool](https://ariel-schwartz-254.github.io/fantasy-football-drafting-tool/)
+*   🚀  I'm currently working on [Clothing Store](https://main--hilarious-brioche-6d2808.netlify.app//)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Projects
   
