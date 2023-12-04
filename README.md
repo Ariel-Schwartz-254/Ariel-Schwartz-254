@@ -6,12 +6,12 @@ Frontend Developer
 
 Welcome to my GitHub profile! As a frontend developer, I'm on a mission to create intuitive and visually pleasing web interfaces. Explore my repositories to discover my projects, where I blend creativity with cutting-edge technologies to deliver outstanding user experiences.
 
-*   🌍  I'm based in Tel Aviv, Israel
 <!---*   🖥️  See my portfolio at [Ariel Schwartz](http://arielschwartz.com) --->
+*   🌍  I'm based in Tel Aviv, Israel
 *   ✉️  You can contact me at [schwartz254@gmail.com](mailto:schwartz254@gmail.com)
-*   🚀  I'm currently working on [Clothing Store](https://main--hilarious-brioche-6d2808.netlify.app//)
-*   🧠  I'm learning Redux
-*   🤝  I'm open to collaborating on Projects
+*   🚀  I am currently working on this [Clothing Store](https://main--hilarious-brioche-6d2808.netlify.app//) project
+*   🧠  I am currently learning Redux
+*   🤝  I am open to collaborating on Projects
   
 ### Skills 
 <p align="left">
