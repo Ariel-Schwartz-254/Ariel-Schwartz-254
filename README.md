@@ -4,13 +4,13 @@ Hi! My name is Ariel Schwartz
 Frontend Developer
 ------------------
 
-Welcome to my GitHub profile! As a frontend developer, I'm on a mission to create intuitive and visually stunning web interfaces. Explore my repositories to discover my projects, where I blend creativity with cutting-edge technologies to deliver outstanding user experiences.
+Welcome to my GitHub profile! As a frontend developer, I'm on a mission to create intuitive and visually pleasing web interfaces. Explore my repositories to discover my projects, where I blend creativity with cutting-edge technologies to deliver outstanding user experiences.
 
 *   🌍  I'm based in Tel Aviv, Israel
-*   🖥️  See my portfolio at [Ariel Schwartz](http://arielschwartz.com)
+<!---*   🖥️  See my portfolio at [Ariel Schwartz](http://arielschwartz.com) --->
 *   ✉️  You can contact me at [schwartz254@gmail.com](mailto:schwartz254@gmail.com)
 *   🚀  I'm currently working on [Clothing Store](https://main--hilarious-brioche-6d2808.netlify.app//)
-*   🧠  I'm learning React
+*   🧠  I'm learning Redux
 *   🤝  I'm open to collaborating on Projects
   
 ### Skills 
