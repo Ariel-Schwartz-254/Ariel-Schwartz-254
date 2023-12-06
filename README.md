@@ -10,7 +10,7 @@ Welcome to my GitHub profile! As a frontend developer, I'm on a mission to creat
 *   🌍  I'm based in Tel Aviv, Israel
 *   ✉️  You can contact me at [schwartz254@gmail.com](mailto:schwartz254@gmail.com)
 *   🚀  I am currently working on this [Clothing Store](https://main--hilarious-brioche-6d2808.netlify.app//) project
-*   🧠  I am currently learning Redux
+*   🧠  I am currently learning Typescript
 *   🤝  I am open to collaborating on Projects
   
 ### Skills 
