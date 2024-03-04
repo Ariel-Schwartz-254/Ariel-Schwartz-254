@@ -1,10 +1,10 @@
 Hi! My name is Ariel Schwartz
 ======================================================================================================================================
 
-Frontend Developer
+Full-Stack Developer
 ------------------
 
-Welcome to my GitHub profile! As a frontend developer, I'm on a mission to create intuitive and visually pleasing web interfaces. Explore my repositories to discover my projects, where I blend creativity with cutting-edge technologies to deliver outstanding user experiences.
+Welcome to my GitHub profile! As a Full-Stack developer, I'm on a mission to create intuitive and visually pleasing web applications. Explore my repositories to discover my projects, where I blend creativity with cutting-edge technologies to deliver outstanding user experiences.
 
 <!---*   🖥️  See my portfolio at [Ariel Schwartz](http://arielschwartz.com) --->
 *   🌍  I'm based in Tel Aviv, Israel
