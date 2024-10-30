@@ -4,7 +4,7 @@ Hi! My name is Ariel Schwartz
 Software Developer
 ------------------
 
-Welcome to my GitHub profile! As a Software developer, I'm on a mission to create intuitive and visually pleasing web applications. Explore my repositories to discover my projects, where I blend creativity with cutting-edge technologies to deliver outstanding user experiences.
+Welcome to my GitHub profile! I'm currently transitioning my career towards data science, eager to leverage my existing skills as a software developer to build insightful and interactive data-driven applications.  Explore my repositories to discover my past work in web development, where I focused on creating user-friendly and engaging experiences. Stay tuned as I embark on this exciting journey, adding projects that showcase my growing expertise in data analysis, machine learning, and data visualization.
 
 <!---*   🖥️  See my portfolio at [Ariel Schwartz](http://arielschwartz.com) --->
 *   🌍  I'm based in Tel Aviv, Israel
